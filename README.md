@@ -13,7 +13,7 @@
 
 ##  Estadísticas
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sportas2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sportas2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
 
 ---
 
