@@ -1,9 +1,9 @@
-# 👋 Hola, soy Sergio Portas Arcos
+#  Hola, soy Sergio Portas Arcos
 
-💻 Estudiante de Desarrollo de Aplicaciones Multiplataforma  
-🤖 Formación en Automatización y Robótica Industrial  
-⚡ Base en Sistemas Eléctricos y Verificación de Sistemas  
-🌍 Rianxo, España  
+Estudiante de Desarrollo de Aplicaciones Multiplataforma  
+Formación en Automatización y Robótica Industrial  
+Base en Sistemas Eléctricos y Verificación de Sistemas  
+Rianxo, España 
 
 ---
 
