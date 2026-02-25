@@ -37,8 +37,8 @@ Apasionado por el desarrollo backend, la eficiencia de sistemas y la integració
 ##  Estadísticas de GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sportas2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sportas2004&layout=compact&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sportas2004&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=21600" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sportas2004&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600" />
 </p>
 
 ---
